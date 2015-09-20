@@ -1,0 +1,19 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "An html5 quest journal for keeping track of all adventure related info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/theoperatore/journal.git"
+  },
+  "author": "Alex Petersen <theoperatore@gmail.com> (http://anpetersen.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theoperatore/journal/issues"
+  },
+  "homepage": "https://github.com/theoperatore/journal#readme"
+}
